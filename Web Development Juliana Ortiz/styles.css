@@ -1,0 +1,6 @@
+body{background-color: #F7E9BE;}
+h1{color: #454033; font-family: bodoni; text-align: center;}
+img{display: block; margin-left: auto; margin-right: auto; width: 50%;}
+p{color: #454033; font-family: prestige; margin: 35px 70px 50px;}
+a{color: #454033; text-decoration: none; }
+a:hover {color: red; text-decoration: underline;}
